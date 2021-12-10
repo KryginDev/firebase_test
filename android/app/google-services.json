@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162981035260",
+    "project_id": "loginbench",
+    "storage_bucket": "loginbench.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162981035260:android:b523bed25c9e4dab812b79",
+        "android_client_info": {
+          "package_name": "com.login.bench"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162981035260-e48ap2m8t6vkk2ho3e6jt0cov6bu9pjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnQLeeS8S1Xe7yiHcPbv6_DN26FC6nOMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162981035260-e48ap2m8t6vkk2ho3e6jt0cov6bu9pjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
